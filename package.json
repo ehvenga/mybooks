@@ -1,0 +1,25 @@
+{
+  "name": "mybooks",
+  "version": "1.0.0",
+  "description": "myBooks is an e-commerce website to purchase and review listings.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hari-elangeswaran-au16/mybooks.git"
+  },
+  "author": "Hari Vengadesh Elangeswaran, Nihar Ranjan Mohanty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hari-elangeswaran-au16/mybooks/issues"
+  },
+  "homepage": "https://github.com/hari-elangeswaran-au16/mybooks#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  }
+}
