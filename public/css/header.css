@@ -1,0 +1,18 @@
+.carousel-inner {
+    height: 60vh !important;
+    display: flex;
+    align-items: center;
+}
+
+#carouselExampleSlidesOnly{
+    position: relative;
+    z-index:-1 !important;
+}
+
+.header-container {
+    position: absolute;
+    top: 30%;
+    right: 7%;
+    z-index: 1;
+    color: white;
+}
